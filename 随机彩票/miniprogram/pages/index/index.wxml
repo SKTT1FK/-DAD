@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class="box">
+<view class="title">随机彩票号码生成</view>
+<view>生成的随机号码为：</view>
+<view wx:for="{{rand}}">{{item}}</view>
+<button type="primary" bindtap='newRand'>产生新的随机数</button>
+</view>
+========================================================
+  <view>姓名：付凯 班级：电科19-2 学号：201923010206</view>
+  <view>学会欣赏一路走来的崎岖和坎坷，并在沿途种满理想🌹</view>
