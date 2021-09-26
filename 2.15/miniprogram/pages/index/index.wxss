@@ -1,0 +1,13 @@
+/**index.wxss**/
+page{
+  background: rgb(25, 131, 4);
+}
+input{
+  background: rgb(167, 169, 199); 
+  margin: 20px 0; 
+  border-bottom: 1px solid blue;
+  height: 100rpx;
+}
+button{
+  margin-top: 20px;
+}
